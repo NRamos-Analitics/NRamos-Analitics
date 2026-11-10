@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Nicolas Ramos 👋
 
-<!--
-**NRamos-Analitics/NRamos-Analitics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst based in British Columbia, Canada, with a strong background in database administration and operations management. I specialize in building end-to-end data pipelines, developing predictive models, and translating unstructured data into actionable business intelligence.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn, asyncio), SQL (BigQuery, PostgreSQL)
+* **Data Engineering & Cloud:** ETL Pipelines, Google Cloud Platform (GCP), REST APIs
+* **BI & Visualization:** Looker Studio, Tableau, Seaborn, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Portfolio Highlights
+1. **[End-to-End Canadian Real Estate Data Pipeline](https://github.com/NRamos-Analitics/canadian-rental-market-pipeline):** A scalable ETL pipeline taking 25k+ records from raw data to a Looker Studio executive dashboard using Python and BigQuery.
+2. **[Algorithmic Trading Ecosystem](https://github.com/NRamos-Analitics/crypto-algorithmic-trading-bots):** A dual-bot asynchronous (`asyncio`) trading architecture scanning live market data and dispatching alerts via the Telegram API.
+3. **[Work Health & Safety Predictive Analytics](https://github.com/NRamos-Analitics/whs-predictive-analytics):** A Machine Learning project utilizing a Random Forest Classifier and EDA to forecast industrial accident severity.
+
+📫 **Let's connect:** nicolasramosprado@gmail.com
